@@ -1,1 +1,4 @@
 # Weather-EDA
+<img src= "https://i.postimg.cc/N03y5WwR/Chat-GPT-Image-Aug-11-2025-12-41-43-PM.png" width="1000" height="600"><br>
+## Dataset overview
+This weather dataset is a detailed record of hourly weather observations from January 1, 2012 to September 9, 2012. It contains information such as the temperature, how cold or warm it felt (dew point), the humidity in the air, wind speed, how far you could see (visibility), and the air pressure. It also describes the actual weather conditions in words, like “fog,” “clear,” “cloudy,” or “freezing drizzle.” The data is complete with no missing entries, meaning every hour in this period has a recorded weather report. Overall, it gives a clear picture of how the weather changed hour by hour, making it useful for studying patterns, spotting trends, or even predicting future weather.
